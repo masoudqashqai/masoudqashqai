@@ -14,7 +14,8 @@
 
 I'm an **Infrastructure & Backup Engineer** focused on keeping enterprise platforms resilient, observable, and secure.
 
-- 🖥️ **Infrastructure & Backup** — design and operate enterprise virtualization on **VMware vSphere & ESXi**, with backup and recovery as a core responsibility.
+- 🖥️ **Infrastructure & Backup** — design and operate enterprise virtualization on **VMware vSphere & ESXi**, with backup and recovery
+- 
 - 📊 **Monitoring & SIEM** — build visibility with **ManageEngine ADAudit Plus** & **EventLog Analyzer**, and **Splunk** for log analytics and security monitoring.
 - 🔒 **Server Hardening** — performed security hardening of **HPE Synergy Gen11** servers across the company estate.
 - 🎮 **Creative Coder (hobbyist)** — I build things for fun: mostly **Python** and **Unity (C#)** game development, with **1000+ hours** in **Maya 3D** for assets along the way.
