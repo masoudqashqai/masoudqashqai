@@ -47,17 +47,6 @@ I'm an **Infrastructure & Backup Engineer** focused on keeping enterprise platfo
 - 🌆 **[Driftplane](https://github.com/masoudqashqai/Driftplane)** — An endless, open 3D drive through a neon vaporwave dreamscape — live in your browser.
 - 🐧 **[Zurvan-OS](https://github.com/masoudqashqai/Zurvan-OS)** — A minimal Linux distribution assembled from scratch that boots entirely from RAM and self-configures from a single file.
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=masoudqashqai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoudqashqai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-
-</div>
 
 ---
 
