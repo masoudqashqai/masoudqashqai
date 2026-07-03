@@ -41,23 +41,6 @@ I'm an **Infrastructure & Backup Engineer** focused on keeping enterprise platfo
 
 ## 📌 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/masoudqashqai/circles-nova">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=masoudqashqai&repo=circles-nova&theme=tokyonight&hide_border=true" width="49%" />
-</a>
-<a href="https://github.com/masoudqashqai/Inkfall">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=masoudqashqai&repo=Inkfall&theme=tokyonight&hide_border=true" width="49%" />
-</a>
-
-<a href="https://github.com/masoudqashqai/Driftplane">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=masoudqashqai&repo=Driftplane&theme=tokyonight&hide_border=true" width="49%" />
-</a>
-<a href="https://github.com/masoudqashqai/Zurvan-OS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=masoudqashqai&repo=Zurvan-OS&theme=tokyonight&hide_border=true" width="49%" />
-</a>
-
-</div>
 
 - 🎨 **[circles-nova](https://github.com/masoudqashqai/circles-nova)** — A small generative-art script that fills a square with concentric rings. Originally hand-built before AI; later evolved — with AI — into glossy 3D-looking rings colored like slices of an abstract painting.
 - 🖋️ **[Inkfall](https://github.com/masoudqashqai/Inkfall)** — A small framework for noir comic scenes, and the stories told with it.
@@ -73,13 +56,6 @@ I'm an **Infrastructure & Backup Engineer** focused on keeping enterprise platfo
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=masoudqashqai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoudqashqai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=masoudqashqai&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=masoudqashqai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
 
 </div>
 
