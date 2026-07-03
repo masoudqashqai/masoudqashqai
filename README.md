@@ -53,10 +53,16 @@ I'm an **Infrastructure & Backup Engineer** focused on keeping enterprise platfo
 <a href="https://github.com/masoudqashqai/Driftplane">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=masoudqashqai&repo=Driftplane&theme=tokyonight&hide_border=true" width="49%" />
 </a>
+<a href="https://github.com/masoudqashqai/Zurvan-OS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=masoudqashqai&repo=Zurvan-OS&theme=tokyonight&hide_border=true" width="49%" />
+</a>
 
 </div>
 
-> **circles-nova** — generative art experiments in Python &nbsp;•&nbsp; **Inkfall** &amp; **Driftplane** — interactive web experiences.
+- 🎨 **[circles-nova](https://github.com/masoudqashqai/circles-nova)** — A small generative-art script that fills a square with concentric rings. Originally hand-built before AI; later evolved — with AI — into glossy 3D-looking rings colored like slices of an abstract painting.
+- 🖋️ **[Inkfall](https://github.com/masoudqashqai/Inkfall)** — A small framework for noir comic scenes, and the stories told with it.
+- 🌆 **[Driftplane](https://github.com/masoudqashqai/Driftplane)** — An endless, open 3D drive through a neon vaporwave dreamscape — live in your browser.
+- 🐧 **[Zurvan-OS](https://github.com/masoudqashqai/Zurvan-OS)** — A minimal Linux distribution assembled from scratch that boots entirely from RAM and self-configures from a single file.
 
 ---
 
